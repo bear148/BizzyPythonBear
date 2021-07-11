@@ -1,5 +1,5 @@
 <h1>BizzyPythonBear aka Michael</h1>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v5k&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzypythonbear&layout=compact">
 <ul>
   <li>I'm very cool man, and I code.</li>
   <li>Fave languages are: Python, C++, Bear-Lang (of course), JS, C, and Java.</li>
