@@ -7,6 +7,9 @@
   <li>I'm not always free as I'm a student.</li>
 </ul>
 
+## About the Bear-Utils organization
+The bear utils org's only purpose is to house all project's with "Bear-" before them, which those repos are now also all apart of Bear-Utils
+
 <!---
 BizzyPythonBear/BizzyPythonBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
