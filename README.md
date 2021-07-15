@@ -7,6 +7,9 @@
   <li>I'm not always free as I'm a student.</li>
 </ul>
 
+## What am I planning on doing?
+Well, in July I'm mostly thinking about adding as many commands to my [Shell](https://github.com/BizzyPythonBear/Bear-Shell) as possible, since I want to be able to use it as the main hub for where I do everything. I essentially just want to make it a terminal but with more of a UI.
+
 ## About the Bear-Utils organization
 The bear utils org's only purpose is to house all project's with "Bear-" before them, which those repos are now also all apart of Bear-Utils
 
