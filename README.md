@@ -16,6 +16,8 @@ Well, in July I'm mostly thinking about adding as many commands to my [Shell](ht
 ## About the Bear-Utils organization
 The bear utils org's only purpose is to house all project's with "Bear-" before them, which those repos are now also all apart of Bear-Utils
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BizzyPythonBear&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Michaels's Github Stats">
+
 <!---
 BizzyPythonBear/BizzyPythonBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
