@@ -1,5 +1,5 @@
-## Inactive For a While
-I wont be updating anything as I'm currently sick, my family will also be going to universal studios.
+## IM NO LONGER SICK! :DDD
+Sore throats are the worst
 
 <h1>BizzyPythonBear aka Michael</h1>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzypythonbear&layout=compact">
