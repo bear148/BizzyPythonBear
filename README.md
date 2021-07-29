@@ -4,7 +4,7 @@ Sore throats are the worst
 <h1>BizzyPythonBear aka Michael</h1>
 <ul>
   <li>I'm very cool man, and I code.</li>
-  <li>Fave languages are: Python, C++, Bear-Lang (of course), JS, C, and Java.</li>
+  <li>Fave languages are: Python, C++, Bear-Lang (of course), JS, C, Java, and Rust</li>
   <li>You can contact me on discord @ MicBearr#5816</li>
   <li>I'm not always free as I'm a student.</li>
 </ul>
