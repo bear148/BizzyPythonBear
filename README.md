@@ -2,7 +2,6 @@
 Sore throats are the worst
 
 <h1>BizzyPythonBear aka Michael</h1>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bizzypythonbear&layout=compact">
 <ul>
   <li>I'm very cool man, and I code.</li>
   <li>Fave languages are: Python, C++, Bear-Lang (of course), JS, C, and Java.</li>
@@ -15,8 +14,6 @@ Well, in July I'm mostly thinking about adding as many commands to my [Shell](ht
 
 ## About the Bear-Utils organization
 The bear utils org's only purpose is to house all project's with "Bear-" before them, which those repos are now also all apart of Bear-Utils
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BizzyPythonBear&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Michaels's Github Stats">
 
 <!---
 BizzyPythonBear/BizzyPythonBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
