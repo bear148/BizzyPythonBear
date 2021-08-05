@@ -1,5 +1,5 @@
 <h1>BizzyPythonBear aka Michael</h1>
-![](https://komarev.com/ghpvc/?username=BizzyPythonBear&color=red&style=plastic)
+[](https://komarev.com/ghpvc/?username=BizzyPythonBear&color=red&style=plastic)
 <ul>
   <li>I'm very cool man, and I code.</li>
   <li>Fave languages are: Python, C++, Bear-Lang (of course), JS, C, Java, and Rust</li>
