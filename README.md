@@ -18,9 +18,6 @@ Well, in July I'm mostly thinking about adding as many commands to my [Shell](ht
 ## About the Bear-Utils organization
 The bear utils org's only purpose is to house all project's with "Bear-" before them, which those repos are now also all apart of Bear-Utils
 
-## Upcoming Delays
-I will not be here Aug. 6 through 8. I'm going on a trip and wont be able to update the shell.
-
 <!---
 BizzyPythonBear/BizzyPythonBear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
