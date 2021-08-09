@@ -14,11 +14,6 @@ For ease of use, and since windows does not need a shell, Bear-Shell will be por
   <li>I'm not always free as I'm a student.</li>
 </ul>
 
-## Upcoming Bear-Shell Release: 2.4.5.
-- Entirely reworked terminal
-- Vim integration for dev, user, and root terminals
-- Cleaner command handling
-
 ## What am I planning on doing?
 Well, in July I'm mostly thinking about adding as many commands to my [Shell](https://github.com/BizzyPythonBear/Bear-Shell) as possible, since I want to be able to use it as the main hub for where I do everything. I essentially just want to make it a terminal but with more of a UI.
 
