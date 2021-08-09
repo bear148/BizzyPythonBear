@@ -11,7 +11,7 @@ Bear-Shell-Unstable is going to become the new Bear-Shell, I feel it's too stres
   <li>I'm not always free as I'm a student.</li>
 </ul>
 
-## Upcoming Bear-Shell Release: 1.4.3.
+## Upcoming Bear-Shell Release: 2.4.5.
 - Entirely reworked terminal
 - Vim integration for dev, user, and root terminals
 - Cleaner command handling
