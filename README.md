@@ -1,11 +1,5 @@
 ![profile_views](https://komarev.com/ghpvc/?username=BizzyPythonBear)
 
-# LARGE ANNOUNCEMENT!!
-Bear-Shell-Unstable is going to become the new Bear-Shell, I feel it's too stressful to think about two things at once, trying to update both, and its just a mess. So, there will now be ONE repository from now on!
-
-# ANOTHER LARGE ANNOUNCEMENT!!
-For ease of use, and since windows does not need a shell, Bear-Shell will be ported over to be LINUX only!
-
 <h1>BizzyPythonBear aka Michael</h1>
 <ul>
   <li>I'm very cool man, and I code.</li>
